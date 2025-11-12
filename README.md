@@ -1,266 +1,88 @@
-Hello there! 👋 I'm Sadik
+<!-- Replace your current README.md content with this -->
+
+# Hello there! 👋 I'm Sadik
+
 Welcome to my GitHub profile! I'm a passionate developer currently exploring the exciting world of mobile and web development.
 
-🚀 About Me
-🔭 Currently working on: Building creative projects on Behance
 
-🌱 Currently learning: Flutter for cross-platform mobile development
+<div class="profile-container">
+  <div class="header">
+    <h1>Sadik</h1>
+    <p class="tagline">Passionate Developer & Designer</p>
+    <div class="badges">
+      <span class="badge">Flutter</span>
+      <span class="badge">React.js</span>
+      <span class="badge">AWS</span>
+      <span class="badge">JavaScript</span>
+      <span class="badge">UI/UX</span>
+    </div>
+  </div>
 
-👯 Looking to collaborate on: React.js projects
+  <div class="section">
+    <h2>🔍 About Me</h2>
+    <div class="tech-grid">
+      <div class="tech-item">
+        <strong>⭐ Currently working on:</strong>
+        <p>Building creative projects on Behance</p>
+      </div>
+      <div class="tech-item">
+        <strong>📌 Currently learning:</strong>
+        <p>Flutter for cross-platform mobile development</p>
+      </div>
+      <div class="tech-item">
+        <strong>📄 Looking to collaborate on:</strong>
+        <p>React.js projects</p>
+      </div>
+      <div class="tech-item">
+        <strong>💡 Looking for help with:</strong>
+        <p>AWS cloud services</p>
+      </div>
+    </div>
+  </div>
 
-🤔 Looking for help with: AWS cloud services
+  <div class="section">
+    <h2>🛠️ Technologies & Tools</h2>
+    <div class="badges">
+      <span class="badge" style="background: rgba(255,255,255,0.3);">Flutter</span>
+      <span class="badge" style="background: rgba(255,255,255,0.3);">Dart</span>
+      <span class="badge" style="background: rgba(255,255,255,0.3);">React.js</span>
+      <span class="badge" style="background: rgba(255,255,255,0.3);">JavaScript</span>
+      <span class="badge" style="background: rgba(255,255,255,0.3);">TypeScript</span>
+      <span class="badge" style="background: rgba(255,255,255,0.3);">AWS</span>
+      <span class="badge" style="background: rgba(255,255,255,0.3);">Git</span>
+      <span class="badge" style="background: rgba(255,255,255,0.3);">Figma</span>
+    </div>
+  </div>
 
-💬 Ask me about: Anything related to development and design!
+  <div class="stats">
+    <div class="stat-item">
+      <span class="stat-number">2+</span>
+      <span class="stat-label">Years Experience</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-number">15+</span>
+      <span class="stat-label">Projects</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-number">5+</span>
+      <span class="stat-label">Technologies</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-number">∞</span>
+      <span class="stat-label">Passion</span>
+    </div>
+  </div>
 
-😄 Pronouns: He/Him
+  <div class="links">
+    <a href="https://linkedin.com/in/yourprofile" class="link-btn">LinkedIn</a>
+    <a href="https://twitter.com/yourprofile" class="link-btn">Twitter</a>
+    <a href="https://behance.net/yourprofile" class="link-btn">Behance</a>
+    <a href="mailto:your.email@example.com" class="link-btn">Email</a>
+  </div>
+</div>
 
-/* Add this to your README.md using HTML and CSS */
-<style>
-  .profile-container {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 2rem;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  }
+---
 
-  .header {
-    text-align: center;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    padding: 3rem 2rem;
-    border-radius: 15px;
-    color: white;
-    margin-bottom: 2rem;
-  }
+⭐️ **From [sadik-777](https://github.com/sadik-777)**
 
-  .header h1 {
-    font-size: 2.5rem;
-    margin-bottom: 0.5rem;
-    background: linear-gradient(45deg, #fff, #f0f0f0);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-  }
-
-  .tagline {
-    font-size: 1.2rem;
-    opacity: 0.9;
-  }
-
-  .badges {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.5rem;
-    justify-content: center;
-    margin: 1rem 0;
-  }
-
-  .badge {
-    background: rgba(255, 255, 255, 0.2);
-    padding: 0.3rem 0.8rem;
-    border-radius: 20px;
-    font-size: 0.9rem;
-    backdrop-filter: blur(10px);
-  }
-
-  .section {
-    background: white;
-    padding: 2rem;
-    border-radius: 10px;
-    margin: 1.5rem 0;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    border-left: 4px solid #667eea;
-  }
-
-  .section h2 {
-    color: #333;
-    margin-bottom: 1rem;
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-  }
-
-  .tech-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 1rem;
-    margin-top: 1rem;
-  }
-
-  .tech-item {
-    background: #f8f9fa;
-    padding: 1rem;
-    border-radius: 8px;
-    text-align: center;
-    transition: transform 0.3s ease;
-  }
-
-  .tech-item:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  }
-
-  .links {
-    display: flex;
-    justify-content: center;
-    gap: 1rem;
-    margin-top: 2rem;
-  }
-
-  .link-btn {
-    padding: 0.8rem 1.5rem;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    color: white;
-    text-decoration: none;
-    border-radius: 25px;
-    transition: all 0.3s ease;
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-  }
-
-  .link-btn:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 6px 12px rgba(102, 126, 234, 0.3);
-  }
-
-  .stats {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-    gap: 1rem;
-    margin: 2rem 0;
-  }
-
-  .stat-item {
-    text-align: center;
-    padding: 1rem;
-    background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
-    color: white;
-    border-radius: 10px;
-  }
-
-  .stat-number {
-    font-size: 2rem;
-    font-weight: bold;
-    display: block;
-  }
-
-  .stat-label {
-    font-size: 0.9rem;
-    opacity: 0.9;
-  }
-</style>
-<style>
-  .dark-theme {
-    background: #0d1117;
-    color: #c9d1d9;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    padding: 2rem;
-  }
-
-  .profile-header {
-    text-align: center;
-    background: linear-gradient(135deg, #1a1f2e 0%, #2d3748 100%);
-    padding: 3rem 2rem;
-    border-radius: 15px;
-    margin-bottom: 2rem;
-    border: 1px solid #30363d;
-  }
-
-  .profile-title {
-    font-size: 2.5rem;
-    background: linear-gradient(45deg, #58a6ff, #7ee787);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    margin-bottom: 0.5rem;
-  }
-
-  .profile-subtitle {
-    color: #8b949e;
-    font-size: 1.2rem;
-  }
-
-  .tech-stack {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.8rem;
-    justify-content: center;
-    margin: 1.5rem 0;
-  }
-
-  .tech-pill {
-    background: #21262d;
-    border: 1px solid #30363d;
-    padding: 0.5rem 1rem;
-    border-radius: 20px;
-    font-size: 0.9rem;
-    color: #58a6ff;
-    transition: all 0.3s ease;
-  }
-
-  .tech-pill:hover {
-    background: #30363d;
-    transform: translateY(-2px);
-  }
-
-  .content-section {
-    background: #161b22;
-    border: 1px solid #30363d;
-    padding: 2rem;
-    border-radius: 10px;
-    margin: 1.5rem 0;
-  }
-
-  .section-title {
-    color: #58a6ff;
-    border-bottom: 2px solid #30363d;
-    padding-bottom: 0.5rem;
-    margin-bottom: 1.5rem;
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-  }
-
-  .project-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 1.5rem;
-  }
-
-  .project-card {
-    background: #0d1117;
-    border: 1px solid #30363d;
-    border-radius: 8px;
-    padding: 1.5rem;
-    transition: all 0.3s ease;
-  }
-
-  .project-card:hover {
-    border-color: #58a6ff;
-    transform: translateY(-4px);
-  }
-
-  .social-links {
-    display: flex;
-    justify-content: center;
-    gap: 1rem;
-    margin-top: 2rem;
-  }
-
-  .social-link {
-    padding: 0.8rem 1.5rem;
-    background: #21262d;
-    border: 1px solid #30363d;
-    color: #c9d1d9;
-    text-decoration: none;
-    border-radius: 6px;
-    transition: all 0.3s ease;
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-  }
-
-  .social-link:hover {
-    background: #30363d;
-    border-color: #58a6ff;
-    color: #58a6ff;
-  }
-</style>
+*"Turning ideas into reality, one line of code at a time!"* 🚀
