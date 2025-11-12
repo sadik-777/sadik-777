@@ -44,4 +44,4 @@ Welcome to my GitHub profile! I'm a passionate developer currently exploring the
 4. Commit and push the changes.
 5. View your profile at `https://github.com/sadik-777`—it should now display the designed layout!
 
-If you want further tweaks (e.g., add a GitHub stats card, change colors, or include more images), let me know specifics. For example, you could add a dynamic stats image like `![GitHub stats](https://github-readme-stats.vercel.app/api?username=sadik-777&show_icons=true&theme=radical)`. Test everything to ensure it looks good! 🚀
+If you want further tweaks (e.g., add a GitHub stats card, change colors, or include more images), let me know specifics. For example, you could add a dynamic stats image like `![GitHub stats] Test everything to ensure it looks good! 🚀
