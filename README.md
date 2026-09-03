@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D9FF&height=180&section=header&text=Sadik&fontSize=70&fontColor=ffffff&fontAlignY=35" width="100%"/>
 
-  <h3>📱 Mobile & Web Developer | 🎨 UI/UX Designer</h3>
+  <h3>Web Developer | 🎨 UI/UX Designer</h3>
 
   <p align="center">
     <strong>Building clean user experiences, scalable backends, and intuitive interfaces.</strong>
