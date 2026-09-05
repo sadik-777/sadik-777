@@ -39,7 +39,7 @@
 <tr>
 <td>
 <img
-  src="https://github-readme-stats.vercel.app/api?username=sadik-777&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight"
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sadik-777&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight"
   alt="Sadik's GitHub Stats"
   height="180"
 />
@@ -55,7 +55,7 @@
 <tr>
 <td colspan="2" align="center">
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadik-777&layout=compact&hide_border=true&langs_count=8&theme=tokyonight"
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sadik-777&layout=compact&hide_border=true&langs_count=8&theme=tokyonight"
   alt="Sadik's Top Languages"
   height="180"
 />
@@ -66,7 +66,7 @@
 <br>
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=sadik-777&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true"
+  src="https://github-readme-activity-graph.cyclic.app/graph?username=sadik-777&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true"
   alt="Sadik's GitHub Activity Graph"
   width="95%"
 />
