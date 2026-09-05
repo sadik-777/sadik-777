@@ -55,7 +55,7 @@
 <tr>
 <td colspan="2" align="center">
 <img
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sadik-777&layout=compact&hide_border=true&langs_count=8&theme=tokyonight"
+  src=[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadik-777&layout=compact&hide_border=true&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   alt="Sadik's Top Languages"
   height="180"
 />
